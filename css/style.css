@@ -1,10 +1,11 @@
-@media only screen and (max-width: 815px){
-#navbar ul{
-    border: 1px solid;
-    height: 207px;
+@media only screen and (max-width: 815px) {
+    #navbar ul {
+        border: 1px solid;
+        height: 207px;
+    }
 }
-}
-#navbar ul{
+
+#navbar ul {
     padding: 0;
     overflow-y: auto;
     overflow-x: hidden;
@@ -18,7 +19,7 @@ ul {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     padding-inline-start: 40px;
-    
+
 }
 
 #navbar {
@@ -45,5 +46,5 @@ nav {
 
 main {
     display: block;
-    
+
 }
